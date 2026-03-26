@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "サウンドスケープ",
+  "base_artist": "TRUE",
+  "createdAt": "2026-03-26T10:07:15.963884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サウンドスケープ - TRUE & Wind Orchestra Ver.",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/01_サウンドスケープ_-_TRUE_&_Wind_Orchestra_Ver._TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/02_サウンドスケープ_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/03_サウンドスケープ_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サウンドスケープ (off vocal)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/04_サウンドスケープ_(off_vocal)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サウンドスケープ(TV size)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/05_サウンドスケープ(TV_size)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TRUE & Wind Orchestra Ver.)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/06_サウンドスケープ_(TRUE_&_Wind_Orchestra_Ver.)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TV size)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/07_サウンドスケープ_(TV_size)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サウンドスケープ～Loving nostalgia Ver.～",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/08_サウンドスケープ~Loving_nostalgia_Ver.~_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TV size)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/09_サウンドスケープ_(TV_size)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TRUE & Wind Orchestra Ver.)",
+      "artist": "TRUE & Wind Orchestra",
+      "has_synced": true,
+      "path": "select/10_サウンドスケープ_(TRUE_&_Wind_Orchestra_Ver.)_TRUE_&_Wind_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サウンドスケープ(TV size)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/11_サウンドスケープ(TV_size)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/12_サウンドスケープ_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/13_サウンドスケープ_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TRUE & Wind Orchestra Ver.) - Sound Scape (TRUE & Wind Orchestra Version)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/14_サウンドスケープ_(TRUE_&_Wind_Orchestra_Ver.)_-_Sound_Scape_(TRUE_&_Wind_Orchestra_Versi_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "サウンドスケープ (TRUE & Wind Orchestra Ver.）",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/15_サウンドスケープ_(TRUE_&_Wind_Orchestra_Ver.)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "サウンドスケープ - Loving nostalgia Ver.",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/16_サウンドスケープ_-_Loving_nostalgia_Ver._TRUE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_サウンドスケープ_TRUE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サウンドスケープ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/localdb_01_サウンドスケープ_TRUE.lrc",
+      "repo_name": "wb_sguOeKxs"
+    }
+  ]
+}
